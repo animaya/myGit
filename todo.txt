@@ -1,1 +1,4 @@
 line is here
+
+1. learn by hard main git commands
+2. practice practice practice
